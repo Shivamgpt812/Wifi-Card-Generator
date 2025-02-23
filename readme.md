@@ -14,7 +14,7 @@ Valicode is a **WiFi QR Code Generator** that makes it super easy to share WiFi 
 - **JavaScript** ⚡  
 
 ## Preview
-(preview.png)
+[preview](preview.png)
 
 ## 🎯 How to Use  
 1️⃣ Open the **Valicode** WiFi Card Generator 🌐  
